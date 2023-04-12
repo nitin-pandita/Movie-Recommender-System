@@ -3,6 +3,12 @@ Movie Recommender System using Machine Learning
 
 The project is based on the recommendatio system, we will be using machine learning to make recommendation.
 
+<br>
+
+<h1> Demo </h1>
+
+<img src='https://github.com/nitin-pandita/Movie-Recommender-System/blob/main/streamlit_app%20%C2%B7%20Streamlit%20-%20Google%20Chrome%202023-04-11%2018-40-29%20(1)%20(1).gif?raw=true'>
+
 <h4> Steps involved in the Model </h4>
 
 - Data collection : Data is being collected from Kaggle "TMDB Dataset" which contains 5000+ movies dataset and has different fields in it.
